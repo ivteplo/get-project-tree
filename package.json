@@ -11,6 +11,14 @@
     "Sources/ProjectTree/**"
   ],
   "bin": {
-    "project-tree": "./Sources/ProjectTree/CLI.js"
-  }
+    "project-tree": "Sources/ProjectTree/CLI.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivteplo/get-project-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivteplo/get-project-tree/issues"
+  },
+  "homepage": "https://github.com/ivteplo/get-project-tree#readme"
 }
