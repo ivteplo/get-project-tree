@@ -1,0 +1,16 @@
+{
+  "name": "get-project-tree",
+  "version": "1.0.0",
+  "author": "Ivan Teplov",
+  "license": "Apache-2.0",
+  "description": "Get the tree structure of a directory",
+  "type": "module",
+  "module": "Sources/ProjectTree/ProjectTree.js",
+  "private": false,
+  "files": [
+    "Sources/ProjectTree/**"
+  ],
+  "bin": {
+    "project-tree": "./Sources/ProjectTree/CLI.js"
+  }
+}
